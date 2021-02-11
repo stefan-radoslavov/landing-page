@@ -1,0 +1,497 @@
+.rectangle5{
+    width: 1280px;
+height: 45px;
+
+}
+.sitegoestext{width: 1132px;
+    height: 34px;
+    font-size: 30px;
+    line-height: 50px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Myriad Pro";
+    text-align: center;
+
+}
+.header{width: 100%;
+    height: 482px;
+    background-image: url(img/RTX3060Ti_KV_Extended.png);
+    background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+
+}
+.headerbox{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+
+}
+.headertext1{font-size: 45px;
+    line-height: 56px;
+    color: #76b900;
+    font-weight: bold;
+    font-family: "T TSquares";
+  
+}
+.headertext2{
+    font-size: 23px;
+line-height: 23px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Ge Force";
+}
+.headertext3{
+    font-size: 16px;
+line-height: 22px;
+color: #eeeeee;
+font-weight: 500;
+font-family: "Exo 2";
+}
+.rtx3060ti{width: 100%;
+    height: 516px;
+    background-color:#010101;;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.imgbox1{width: 50%;
+    height: 100%;
+    background-image: url(img/geforce-rtx-3060-ti-product-gallery-full-screen-3840-3-bl.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.productbox{
+    width: 50%;
+    display: flex ;
+    flex-direction: column;
+    align-items:flex-start;
+}
+.pr1{
+    font-size: 30px;
+line-height: 36px;
+color: #76b900;
+font-weight: bold;
+font-family: "T TSquares";
+}
+.li{
+    background-color: #31a4f1;
+}
+.ul{
+    font-size: 21px;
+line-height: 40px;
+color: #ffffff;
+font-family: "T TSquares";
+}
+.cenibox{
+    width: 100%;
+    display: flex ;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.cena1{font-size: 33px;
+    line-height: 61px;
+    color: #ffffff;
+    font-family: "T TSquares";
+text-decoration: line-through;
+
+}
+.cena2{
+    font-size: 48px;
+    line-height: 72px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "T TSquares";
+}
+.btn{font-size: 24px;
+    line-height: 38px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "T TSquares";
+    width: 187px;
+height: 54px;
+background-color: #76b900;
+
+   
+}
+.videotext{display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:#010101;
+
+}
+.videote{
+    width: 962px;
+height: 58px;
+font-size: 32px;
+line-height: 48px;
+color: #ffffff;
+font-weight: bold;
+font-family: "T TSquares";
+text-align: center;
+}
+.videote1{
+    font-size: 24px;
+color: #eeeeee;
+font-family: "T TSquares";
+}
+.videocardsbox1{width: 100%;
+    height: 500px;
+    background-image: url(img/Art.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    
+    
+
+
+}
+.vctbox{width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 5em;
+   
+
+
+}
+.vcb1t{width: 583px;
+    height: 100px;
+    font-size: 30px;
+    line-height: 36px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "T TSquares";
+
+}
+.vcb1t1{width: 408px;
+    height: 276px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #eeeeee;
+    font-family: "Myriad Pro";
+
+}
+.videotegreenbox{
+    width: 100%;
+height: 171px;
+background-color: #76b900;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-around;
+}
+.videotegreen1{font-size: 30px;
+    line-height: 36px;
+    color: #1f1f1f;
+    font-weight: bold;
+    font-family: "T TSquares";
+    text-align: center;
+
+}
+.btn2{
+    width: 227px;
+height: 41px;
+background-color: #1f1f1f;
+font-size: 19px;
+line-height: 39px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Segoe Pro";
+}
+.architecture{
+    width: 100%;
+    height: 300px;
+    background-color:#010101;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.architecturete1{
+    width: 961px;
+height: 36px;
+font-size: 32px;
+line-height: 36px;
+color: #ffffff;
+font-weight: bold;
+font-family: "T TSquares";
+text-align: center;
+}
+
+.architecturete2box{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.architectureboxinfo{
+    width: 40%;
+    height: 100%;
+}
+.archtext{
+    font-size: 18px;
+line-height: 27px;
+color: #eeeeee;
+font-family: "T TSquares";
+}
+.architectureboximg{
+    width: 40%;
+    height: 200px;
+    background-image: url(img/GA102_Ampere_Die_Tex_01_Post-process-v002.png);
+    background-position: center; 
+  background-repeat: no-repeat; 
+  background-size:contain; 
+
+}
+.dlss{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #b3adad;
+    
+}
+.dlsstxt1{height: 67px;
+    font-size: 31px;
+    line-height: 35px;
+    color: #000000;
+    font-weight: bold;
+    font-family: "T TSquares";
+    text-align: center;
+}
+.dlsstxt2{
+    width: 961px;
+height: 56px;
+font-size: 21px;
+line-height: 23px;
+color: #000000;
+font-weight: bold;
+font-family: "T TSquares";
+text-align: center;
+}
+.dlsstxt3{
+    width: 70%;
+    height: 105px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1a1a1a;
+    font-family: "T TSquares";
+    text-align: center;
+
+}
+.dlsstxt4{
+
+    width: 960px;
+    height: 44px;
+    font-size: 12px;
+    line-height: 18px;
+    color: #1a1a1a;
+    font-family: "T TSquares";
+    text-align: center;
+}
+
+.esports{width: 100%;
+        height: 482px;
+        background-color:#010101;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+
+    
+    }
+.esportsimg{width: 50%;
+    height: 482px;
+    background-image: url(img/geforce-fwg-20-eco-owned-FINAL-No-Copy.png);
+    background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+
+}
+.esportsbox{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.esportstxt{
+    
+    font-size: 32px;
+    line-height: 36px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "T TSquares";
+}
+.esportstxt2{
+    width: 80%;
+    font-size: 16px;
+    line-height: 24px;
+    color: #eeeeee;
+    font-family: "T TSquares";
+}
+.studio{width: 100%;
+    height: 482px;
+    background-color:#010101;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+
+}
+.studioimg{width: 50%;
+    height: 482px;
+    background-image: url(img/Studio\ KV.png);
+    background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+.studiobox{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.studiotxt{
+    
+    font-size: 32px;
+    line-height: 36px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "T TSquares";
+}
+.studiotxt2{
+    width: 80%;
+    font-size: 16px;
+    line-height: 24px;
+    color: #eeeeee;
+    font-family: "T TSquares";
+}
+.broadcasting{width: 100%;
+    height: 482px;
+    background-color: #021608;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+.broadcastingimg{width: 50%;
+    height: 482px;
+    background-image: url(img/NVIDIA®\ RTX\ Showcase.png);
+    background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+.broadcastingbox{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.broadcastingtxt{
+    
+    font-size: 32px;
+    line-height: 36px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "T TSquares";
+}
+.broadcastingtxt2{
+    width: 80%;
+    font-size: 16px;
+    line-height: 24px;
+    color: #eeeeee;
+    font-family: "T TSquares";
+}
+.footer{
+    width: 100%;
+    height: 10rem;
+    background-color:#010101;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.footerbox{width: 20%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.footertxt{width: 80%;
+height: 54px;
+font-size: 12px;
+line-height: 16px;
+color: #959494;
+font-family: "T TSquares";
+text-align: center;
+}
+
+.adresi{
+    width: 100%;
+    height: 857px;
+background-color: #464646;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.adresitxt{width: 50%;
+    font-size: 32px;
+line-height: 36px;
+color: #ffffff;
+font-family: "Gotham";
+text-align: center;
+}
+.adresibox{width: 80%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.magazin{width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.magazintxt{
+    font-size: 22px;
+line-height: 30px;
+color: #ffffff;
+font-weight: 800;
+font-family: "Gotham";
+}
+.magazintxt1{
+    font-size: 16px;
+letter-spacing: 0px;
+line-height: 21px;
+color: #ffffff;
+font-family: "Museo Sans Cyrl";
+}
+.btnshop{width: 130px;
+    height: 41px;
+    border-radius: 4px;
+    background-color: #76b900;
+    font-size: 19px;
+line-height: 39px;
+color: #ffffff;
+font-weight: bold;
+font-family: "Segoe Pro";
+
+}
